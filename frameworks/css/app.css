@@ -1,0 +1,49 @@
+.mainHeader {
+	background-color:#FF69B4;	
+}
+
+.sidebar {
+	background-color:#999;
+}
+
+.calloutStyle {
+	margin-top:30px;
+}
+
+.box1 {
+	background-color:#FFBBEA;
+}
+.box2 {
+	background-color:#F0D1FF;
+}
+.box3 {
+	background-color:#FFBBEA;
+}
+
+.imageleft {
+	float:left;
+	margin-right:10opx;
+}
+.imageright {
+	float:right;
+	margin:10px 10px 10px 10px;
+}
+.imagearray {
+	float:right;
+	margin:10px;
+}
+
+p { font-family: 'Raleway', sans-serif;
+	color:#FF69B4;
+	font-size:25px;
+}
+
+h2{
+font-family: 'Raleway', sans-serif;
+color:orange;
+font-size:30px;
+}
+
+h1{
+	font-family: 'Raleway', sans-serif;
+}
